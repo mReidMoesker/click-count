@@ -42,13 +42,14 @@ button {
   border-radius: 25px;
   font-size: 20px;
   font-weight: 400;
-  transition: 2ms ease;
+  transition: 4ms ease;
+  cursor: pointer;
 }
 
-button::active {
+button:hover {
   background-color: blue;
   color: aqua;
-  transition: 2ms ease;
+  transition: 4ms ease;
 }
 
 p {
