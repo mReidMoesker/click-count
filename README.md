@@ -1,6 +1,7 @@
 # Click counter
 
 This project is designed for JavaScript beginners, specifically their first interaction with DOM content.
+finished page: https://mreidmoesker.github.io/click-count/
 
 <h2>How to create this app:</h2>
 
